@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="template">
+	<name>j3amptemplate</name>
+	<creationDate>21/03/2020</creationDate>
+	<author>OmniWeb</author>
+	<authorEmail>omniwebgr@gmail.com</authorEmail>
+	<authorUrl>https://www.omniweb.gr</authorUrl>
+	<copyright></copyright>
+	<version>2020.03.31</version>
+	<description></description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+</extension>
